@@ -1,5 +1,0 @@
-{
-  "name": "Coe Onsite 申請管理系統",
-  "description": "教育支援申請管理平台，支持 AI PDF 自動識別與 Google Sheet 同步。提供時間安排、人員分配與日曆串接功能。",
-  "requestFramePermissions": []
-}
